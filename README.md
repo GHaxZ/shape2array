@@ -4,13 +4,13 @@ Create a new Shape:
 Shape [objectname] = new [Shape type]([Shape parameters]);
 
 Available Shape Types:
-Rectangle
-Circle
-Paralellogram
-Pyramid
+ - Rectangle
+ - Circle
+ - Paralellogram
+ - Pyramid
 
 Available Shape parameters:
-Rectangle(int height, int width)
-Circle(int radius)
-Paralellogram(int height, int width)
-Pyramid(int width, boolean flipped)
+ - Rectangle(int height, int width)
+ - Circle(int radius)
+ - Paralellogram(int height, int width)
+ - Pyramid(int width, boolean flipped)
